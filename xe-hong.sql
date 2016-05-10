@@ -1,0 +1,1 @@
+SELECT * FROM l_foods;
